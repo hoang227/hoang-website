@@ -1,4 +1,4 @@
-# portfolio - Nuxt 3 and Tailwind CSS
+# Personal Website
 
 [![Development Status](https://img.shields.io/badge/status-development-yellow)](https://github.com/hoang227/hoang-website)
 
