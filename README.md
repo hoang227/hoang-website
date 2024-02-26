@@ -1,75 +1,55 @@
-# Nuxt 3 Minimal Starter
+# Personal Website
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+[![Development Status](https://img.shields.io/badge/status-development-yellow)](https://github.com/hoang227/hoang-website)
 
-## Setup
+Welcome to the repository for developing my personal website using Nuxt 3 and Tailwind CSS. This project serves as the foundation for building and maintaining my personal website, showcasing my portfolio, blog, and other content.
 
-Make sure to install the dependencies:
+## Features
+
+- **Nuxt 3:** Leverages the power of Nuxt 3 for server-rendered Vue.js applications with improved performance and developer experience.
+- **Tailwind CSS:** Utilizes the utility-first CSS framework, Tailwind CSS, for a clean and responsive design.
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have [Node.js](https://nodejs.org/) and [Nuxt 3](https://v3.nuxtjs.org/) installed.
+
+### Installation
+
+#### Clone the repository
 
 ```bash
-# npm
+git clone https://github.com/hoang227/hoang-website.git
+```
+
+#### Install the dependencies
+
+```bash
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
+#### Start the development server on `http://localhost:3000`
 
 ```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
-
-Build the application for production:
+#### Build the application for production
 
 ```bash
-# npm
 npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
 ```
 
-Locally preview production build:
+#### Locally preview production build:
 
 ```bash
-# npm
 npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+## Acknowledgments
+
+- Thanks to the Vue3, Nuxt 3 and Tailwind CSS communities for providing excellent tools and frameworks.
